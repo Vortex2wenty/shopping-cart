@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.d0e32c6f.chunk.css",
+    "main.js": "/shopping-cart/static/js/main.77d2568a.chunk.js",
+    "main.js.map": "/shopping-cart/static/js/main.77d2568a.chunk.js.map",
+    "runtime-main.js": "/shopping-cart/static/js/runtime-main.b6a2e420.js",
+    "runtime-main.js.map": "/shopping-cart/static/js/runtime-main.b6a2e420.js.map",
+    "static/js/2.3d9c3389.chunk.js": "/shopping-cart/static/js/2.3d9c3389.chunk.js",
+    "static/js/2.3d9c3389.chunk.js.map": "/shopping-cart/static/js/2.3d9c3389.chunk.js.map",
+    "index.html": "/shopping-cart/index.html",
+    "static/css/main.d0e32c6f.chunk.css.map": "/shopping-cart/static/css/main.d0e32c6f.chunk.css.map",
+    "static/js/2.3d9c3389.chunk.js.LICENSE.txt": "/shopping-cart/static/js/2.3d9c3389.chunk.js.LICENSE.txt",
+    "static/media/corsair-vengeance-rgb-pro.d4991ae8.jpg": "/shopping-cart/static/media/corsair-vengeance-rgb-pro.d4991ae8.jpg",
+    "static/media/hero-image.8ae44ecb.jpg": "/shopping-cart/static/media/hero-image.8ae44ecb.jpg",
+    "static/media/nvidia-geforce-rtx-3080-ti.03369ff1.jpg": "/shopping-cart/static/media/nvidia-geforce-rtx-3080-ti.03369ff1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6a2e420.js",
+    "static/js/2.3d9c3389.chunk.js",
+    "static/css/main.d0e32c6f.chunk.css",
+    "static/js/main.77d2568a.chunk.js"
+  ]
+}
